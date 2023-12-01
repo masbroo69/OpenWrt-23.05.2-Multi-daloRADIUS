@@ -32,10 +32,12 @@ daloRADIUS is an advanced RADIUS web management application aimed at managing ho
     - etc
 
 **Dashboard**
+
 Note: www/dashboard/status.php
 Default IP : 192.168.10.1
 Please change IP your need 
 <script type="text/javascript" src="http://192.168.1.1:19999/dashboard.js"></script>
+
 
 **Credits:**
 
